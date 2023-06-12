@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cowsay": "^1.5.0",
+    "dayjs": "^1.11.8",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.22"
+  },
+"scripts": {
+  "divaca": "cawsay hola soy una vaca"
+}
+}
