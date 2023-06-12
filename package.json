@@ -6,7 +6,7 @@
     "lodash": "^4.17.21",
     "nodemon": "^2.0.22"
   },
-"scripts": {
-  "divaca": "cawsay hola soy una vaca"
-}
+  "scripts": {
+    "divaca": "cawsay hola soy una vaca"
+  }
 }
