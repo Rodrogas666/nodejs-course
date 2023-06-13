@@ -1,12 +1,13 @@
 {
-  "dependencies": {
-    "colors": "^1.4.0",
-    "cowsay": "^1.5.0",
-    "dayjs": "^1.11.8",
-    "lodash": "^4.17.21",
-    "nodemon": "^2.0.22"
-  },
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "divaca": "cawsay hola soy una vaca"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
